@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Mar 07 16:40:38 CST 2020
+@default-cqmike-maven-master-repository-https\://raw.github.com/chenqi146/maven-repo/master/.lastUpdated=1583570435099
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://raw.github.com/chenqi146/maven-repo/master/.error=Could not transfer artifact com.cqmike\:iot-platform\:pom\:0.0.1 from/to cqmike-maven-master-repository (https\://raw.github.com/chenqi146/maven-repo/master/)\: Couldn't kickstart handshaking
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1583570438192
