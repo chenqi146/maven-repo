@@ -1,6 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Mar 18 17:11:03 CST 2020
-@default-cqmike-maven-master-repository-https\://raw.github.com/chenqi146/maven-repo/master/.lastUpdated=1584522660304
+#Fri May 22 15:03:59 CST 2020
+https\://raw.github.com/chenqi146/maven-repo/master/.lastUpdated=1590131037945
 http\://maven.aliyun.com/nexus/content/groups/public/.error=
-https\://raw.github.com/chenqi146/maven-repo/master/.error=Could not transfer artifact com.cqmike\:core\:jar\:sources\:0.0.2 from/to cqmike-maven-master-repository (https\://raw.github.com/chenqi146/maven-repo/master/)\: Couldn't kickstart handshaking
-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1584522663093
+https\://raw.github.com/chenqi146/maven-repo/master/.error=
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1590131039078
