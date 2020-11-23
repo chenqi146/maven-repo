@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 07 21:53:46 CST 2020
+#Mon Nov 23 22:24:53 CST 2020
 base-0.0.1.jar>=
 base-0.0.1.pom>=
+base-0.0.1.jar>github=

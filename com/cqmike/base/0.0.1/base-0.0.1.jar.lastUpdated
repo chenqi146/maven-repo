@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 08 12:11:19 CST 2020
+https\://maven.aliyun.com/repository/central/.error=
+https\://maven.aliyun.com/repository/central/.lastUpdated=1604808645090
+https\://raw.github.com/chenqi146/maven-repo/master/.lastUpdated=1604808679437
+http\://central.maven.org/maven2/.error=Could not transfer artifact com.cqmike\:base\:jar\:0.0.1 from/to maven-central (http\://central.maven.org/maven2/)\: Connect to central.maven.org\:80 [central.maven.org/120.240.95.35] failed\: Connection timed out\: connect
+@default-maven-central-http\://central.maven.org/maven2/.lastUpdated=1604808666232
